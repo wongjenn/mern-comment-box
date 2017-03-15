@@ -1,3 +1,6 @@
+<h2> MERN Comment Box </h2>
+<p> Exercise following the blog by [Bryan Gilbraith] </p>
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
