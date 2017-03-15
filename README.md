@@ -1,5 +1,5 @@
 <h2> MERN Comment Box </h2>
-Exercise following the blog by [Bryan Gilbraith](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.bklrecuf5).
+Exercise following the blog by [Bryan Gilbraith.](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.bklrecuf5)
 <p> To learn how to use MongoDB(M), Express(E), React.js(R), and Node.js(N)</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
